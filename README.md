@@ -13,5 +13,5 @@ I currently go to Gymnasium and am based in Switzerland interested in **Cryptogr
 - **Artificial Intelligence:** Adversarial Machine Learning and Privacy-Preserving AI (Homomorphic Encryption).
 - **Core Stack:** Python, Linux Bash, Git.
 
-## Pinned Projects
-*I do not have any current projects, but as soon as I have completed some projects you will find my verified, independent security implementations and cryptographic tools below.*
+##Projects
+*You will find my projects under repositories including my Cybersecurity Liechtenstein Skilltree Progress*

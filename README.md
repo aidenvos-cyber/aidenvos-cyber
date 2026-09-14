@@ -1,6 +1,6 @@
 # Hi, I'm Aiden
 
-I currently go to Gymnasium and am based in Switzerland interested in **Cryptography** and **AI ** and would like to learn more.
+I currently go to Gymnasium and am based in Switzerland interested in **Cryptography** and **AI** and would like to learn more.
 
 ---
 
